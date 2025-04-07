@@ -1,2 +1,1 @@
-# sample
-Sample document containing details
+sample repository 
